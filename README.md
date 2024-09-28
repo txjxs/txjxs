@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**txjxs/txjxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tejas Nisar
+_(Teh-jus Ni-saar)_
+
+Hi there 👋,  
+
+
+
+## About Me
+
+Hello! I'm Tejas Nisar, a Data Analyst with a passion for data analytics and machine learning. I am currently pursuing an M.S in Data Analytics at George Washington University, expected to graduate in 2026.
+
+
+## Skills
+
+- **Python**: Proficient in Python for data analysis and machine learning.
+- **SQL**: Experienced in SQL for database management and querying.
+- **Power BI**: Skilled in creating interactive dashboards and visualizations.
+- **R**: Knowledgeable in R for statistical analysis and data manipulation.
+
+## Contact
+
+Feel free to reach out to me via:
+
+- **Email**: tejas.nisar@gwu.edu
+- **LinkedIn**: [https://www.linkedin.com/in/tejasnisar/](#)
+- **GitHub**: [https://github.com/txjxs/txjxs/](#)
+
+

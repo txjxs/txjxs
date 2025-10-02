@@ -27,6 +27,6 @@ Feel free to reach out to me via:
 - **Email**: tejas.nisar@gwu.edu
 - **LinkedIn**: [https://www.linkedin.com/in/tejasnisar/](#)
 - **GitHub**: [https://github.com/txjxs](#)
-- **Website**: [https://tejas-nisar.me]
+- **Website**: [https://tejas-nisar.me]()
 
 
